@@ -8,7 +8,7 @@ Three typical OR problems were evaluated using the available free solvers in the
     jupyter
 
 The virtual environment is included in the venv folder as well as a bash file to create the virtual environment.
-The machine used at the creation of this repository: Linuxmint 18.3
+The machine used at the creation of this repository is Linuxmint 18.3.
 
 ## Running the codes:
     1. Open a terminal
