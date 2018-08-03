@@ -19,7 +19,7 @@ The machine used at the creation of this repository is Linuxmint 18.3
     5. Select among the three solution files [*.ipynb] to open and explore
 
 ## Other files
-The following files are also included as a guide for writing codes using CVXPY optimization package.
+The following files are also included as a guide for writing codes using CVXPY optimization package:
     1. 'cvxpy.pdf' - the manual for using the CVXPY package.
     2. 'ConvexOpt.png' - a mindmap summary of Convex Optimization.
     
