@@ -18,11 +18,11 @@ The machine used at the creation of this repository is Linuxmint 18.3
     5. The notebook server should be running and open a browser
     5. Select among the three solution files [*.ipynb] to open and explore
 
-## Other files
-The following files are also included as a guide for writing codes using CVXPY optimization package:
+## Miscellaneous files:
     1. 'cvxpy.pdf' - the manual for using the CVXPY package.
     2. 'ConvexOpt.png' - a mindmap summary of Convex Optimization.
     
     
 ## Conclusion
 Three problems in Operations Research were evaluated using convex optimization in CVXPY.
+CVXPY is available at: https://www.cvxpy.org/index.html
