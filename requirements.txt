@@ -1,0 +1,5 @@
+# required packages
+jupyter
+numpy
+# it is recommended that cvxpy should be installed using anaconda
+
